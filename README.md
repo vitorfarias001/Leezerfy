@@ -41,5 +41,3 @@ Leezer - A mini playlist creator
 - 🗺 **React-Router-DOM** — Routes in React made easy
 - 🎶 **DeezerAPI** - To retrieve metadata and previews
 
-## Deploy
-- leezer-vgutierrez.surge.sh
